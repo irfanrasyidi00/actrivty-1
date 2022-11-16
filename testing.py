@@ -1,1 +1,1 @@
-printf("arip hensem")
+print("arip hensem")
